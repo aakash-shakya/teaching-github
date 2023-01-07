@@ -1,0 +1,15 @@
+first ma project:
+
+project --> git (version control)
+
+project :
+    - index.html  // today's work  // previous( yested) work
+    - index.css   // today's work
+
+
+    - index.html --> made changes     // today's
+    
+
+github --> storage
+
+personal projects, collaboration
